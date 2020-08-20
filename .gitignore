@@ -1,0 +1,11 @@
+HungryPizza.Domain/bin
+HungryPizza.Domain/obj
+HungryPizza.Infra.Data/bin
+HungryPizza.Infra.Data/obj
+HungryPizza.Infra.Shared/bin
+HungryPizza.Infra.Shared/obj
+HungryPizza.Tests/bin
+HungryPizza.Tests/obj
+HungryPizza.WebAPI/.vs
+HungryPizza.WebAPI/bin
+HungryPizza.WebAPI/obj
